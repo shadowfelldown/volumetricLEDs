@@ -1,3 +1,6 @@
 [submodule "Processing/P3LX"]
 	path = Processing/P3LX
 	url = https://github.com/shadowfelldown/P3LX.git
+[submodule "Processing/LX"]
+	path = Processing/LX
+	url = https://github.com/shadowfelldown/LX.git
